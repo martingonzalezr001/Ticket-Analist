@@ -7,3 +7,10 @@
 2025-11-08 17:17:10,745 [INFO] Backend iniciado correctamente Vamos Allá
 2025-11-08 17:18:19,653 [INFO] Backend iniciado correctamente Vamos Allá
 2025-12-01 21:06:36,378 [INFO] Backend iniciado correctamente Vamos Allá
+2025-12-07 20:04:24,822 [ERROR] Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-12-07 20:11:14,500 [INFO] Backend iniciado correctamente Vamos Allá
+2025-12-07 20:11:37,975 [INFO] Backend iniciado correctamente Vamos Allá
