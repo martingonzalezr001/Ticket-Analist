@@ -6,6 +6,9 @@ backend/venv/
 .env
 backend/.env
 
+# OCR temporales
+app/ocr/temp/
+
 # Python
 __pycache__/
 *.pyc
